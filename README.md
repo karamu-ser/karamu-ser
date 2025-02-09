@@ -11,7 +11,8 @@ Je suis un étudiant en développement logiciel à l'école 42 avec une passion 
 
 
 ## 🏫 Formation
-- **École 42** : Étudiant en développement logiciel et cybersécurité depuis [année de début]
+- **École 42** : Étudiant en développement logiciel depuis 2024
+- **USMS** : Étudiant en Ingénierie Informatique et Intelligence Artificielle depuis 2022
 
 
 ## 📫 Contact
