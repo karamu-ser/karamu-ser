@@ -9,11 +9,10 @@ Je suis un étudiant en développement logiciel à l'école 42 avec une passion 
 - **Outils** : Git, VS Code
 - **Cybersécurité** : Sécurité des réseaux
 
-## 📊 Statistiques GitHub
-![Les statistiques GitHub de votre profil](https://github-readme-stats.vercel.app/api?username=votreutilisateur&show_icons=true&theme=radical)
 
 ## 🏫 Formation
 - **École 42** : Étudiant en développement logiciel et cybersécurité depuis [année de début]
+
 
 ## 📫 Contact
 - **E-mail** : karamabderrahmane30@gmail.com
