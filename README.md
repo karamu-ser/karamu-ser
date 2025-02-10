@@ -16,6 +16,6 @@ Je suis un étudiant en développement logiciel à l'école 42 avec une passion 
 
 
 ## 📫 Contact
-- [Gmail] : karamabderrahmane30@gmail.com
+- **E-mail** : karamabderrahmane30@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/abderrahman-k-18082b276/)
 - [X](https://x.com/Abdou43957225)
