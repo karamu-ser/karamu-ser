@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis ABDERRHMAN KARAM!
 
 ## À propos de moi
-Je suis un étudiant en développement logiciel à l'école 42 avec une passion pour la programmation. J'aime travailler sur des projets open source et collaborer avec la communauté.
+Je suis un étudiant en développement logiciel à l'école 1337 avec une passion pour la programmation. J'aime travailler sur des projets open source et collaborer avec la communauté.
 
 ## 🔧 Compétences
 - **Langages** : Python, JavaScript, HTML, CSS, C
@@ -11,7 +11,7 @@ Je suis un étudiant en développement logiciel à l'école 42 avec une passion 
 
 
 ## 🏫 Formation
-- **École 42** : Étudiant en développement logiciel depuis 2024
+- **École 1337** : Étudiant en développement logiciel depuis 2024
 - **USMS** : Étudiant en Ingénierie Informatique et Intelligence Artificielle depuis 2022
 
 
