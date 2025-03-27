@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis ABDERRHMAN KARAM!
+# 👋 Bonjour, je suis user-01!
 
 ## À propos de moi
 Je suis un étudiant en développement logiciel à l'école 1337 avec une passion pour la programmation. J'aime travailler sur des projets open source et collaborer avec la communauté.
@@ -16,6 +16,4 @@ Je suis un étudiant en développement logiciel à l'école 1337 avec une passio
 
 
 ## 📫 Contact
-- **E-mail** : karamabderrahmane30@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/abderrahman-k-18082b276/)
 - [X](https://x.com/Abdou43957225)
