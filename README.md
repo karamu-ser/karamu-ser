@@ -16,5 +16,5 @@ Je suis un étudiant en développement logiciel à l'école 1337 avec une passio
 
 ## 📫 Contact
 - **E-mail** : karamabderrahmane30@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/abderrahman-k-18082b276/)
+- [LinkedIn](https://www.linkedin.com/in/abderrahman-karam-18082b276/)
 - [X](https://x.com/Abdou43957225)
